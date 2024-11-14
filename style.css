@@ -31,7 +31,7 @@ h1, h2 {
   padding: 10px;
   border: none;
   border-radius: 5px;
-  background-color: black; /* Set background color to black */
+  background-color: grey; /* Set background color to black */
   color: white; /* Set text color to white */
   font-size: 16px;
   width: 300px;
